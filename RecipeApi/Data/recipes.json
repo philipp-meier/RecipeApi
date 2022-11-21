@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Chocolate Cookies",
+    "description": "Vintage Chocolate-Chip-Cookies.",
+    "ingredients": [
+      {
+        "amount": 150,
+        "unit": "g",
+        "name": "Salted butter"
+      },
+      {
+        "amount": 80,
+        "unit": "g",
+        "name": "Light brown muscovado sugar"
+      },
+      {
+        "amount": 80,
+        "unit": "g",
+        "name": "Granulated sugar"
+      },
+      {
+        "amount": 2,
+        "unit": "tsp",
+        "name": "Vanilla extract"
+      },
+      {
+        "amount": 1,
+        "unit": "pc",
+        "name": "Egg"
+      },
+      {
+        "amount": 225,
+        "unit": "g",
+        "name": "Plain flour"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tsp",
+        "name": "Bicarbonate of soda"
+      },
+      {
+        "amount": 0.25,
+        "unit": "tsp",
+        "name": "Salt"
+      },
+      {
+        "amount": 200,
+        "unit": "g",
+        "name": "Chocolate chips"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "BLT Sandwich",
+    "description": "Classic BLT Sandwich.",
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": "slices",
+        "name": "Bacon"
+      },
+      {
+        "amount": 2,
+        "unit": "leaves",
+        "name": "Lettuce"
+      },
+      {
+        "amount": 2,
+        "unit": "slices",
+        "name": "Tomato"
+      },
+      {
+        "amount": 2,
+        "unit": "slices",
+        "name": "Toasted Bread"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "Mayonnaise"
+      }
+    ]
+  }
+]

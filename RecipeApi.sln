@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeApi", "RecipeApi\RecipeApi.csproj", "{02A84047-EF58-42C2-8960-6D6D4F8767A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeApi.Tests", "RecipeApi.Tests\RecipeApi.Tests.csproj", "{A9D868D4-BE98-4B39-A181-3D018868DD45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02A84047-EF58-42C2-8960-6D6D4F8767A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A84047-EF58-42C2-8960-6D6D4F8767A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A84047-EF58-42C2-8960-6D6D4F8767A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A84047-EF58-42C2-8960-6D6D4F8767A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D868D4-BE98-4B39-A181-3D018868DD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D868D4-BE98-4B39-A181-3D018868DD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D868D4-BE98-4B39-A181-3D018868DD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D868D4-BE98-4B39-A181-3D018868DD45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
