@@ -5,6 +5,8 @@ This project is set up, so that [CQRS](https://udidahan.com/2009/12/09/clarified
 
 **Swagger UI**: https://localhost:7281/swagger/index.html
 
+![Preview](https://static.p-meier.dev/mediator.png)
+
 ## Interesting links:
 - [MediatR Repository](https://github.com/jbogard/MediatR)
 - [A Mediator using source generators](https://github.com/martinothamar/Mediator)
